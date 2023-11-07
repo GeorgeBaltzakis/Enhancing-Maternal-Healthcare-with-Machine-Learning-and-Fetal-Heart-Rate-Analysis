@@ -1,4 +1,4 @@
-# Enhancing-Maternal-Healthcare-with-Machine-Learning-and-Fetal-Heart-Rate-Analysis
+# Enhancing Maternal Healthcare with Machine Learning and Fetal Heart Rate Analysis
 
 Excited to share my recent project in the field of healthcare analytics and machine learning! 🏥📈
 
